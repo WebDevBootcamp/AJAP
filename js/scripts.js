@@ -24,15 +24,15 @@ var userName= data.name;
       image.src = data.gravatar_url;
       var totalBadges=data.badges.length;
       
-      $("#userInfo").html("<strong> Name: </strong>"+userName+"</br><strong> Total Points: </strong>"+totalPoints+"</br> <strong> Total Badges: </strong>"+totalBadges+"</br>" );
+     var img = $('<img src="' + image.src + '" "height=200 width=200" />');
       
-  
+      
+     $("#userInfo").html("<strong> Name: </strong>"+userName+"</br><strong> Total Points: </strong>"+totalPoints+"</br> <strong> Total Badges: </strong>"+totalBadges+"</br>" );
+   
+    $("#img").append(img);
+    
     console.log(data);  
     console.log(image);
-  
-
-   
-
   
 
     
