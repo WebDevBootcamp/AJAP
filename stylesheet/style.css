@@ -17,6 +17,7 @@ margin-left:50px;
     position: absolute;
     background-color: #e7facf;
     margin-left:35px;
+    margin-right:35px;
     margin-top: 170px;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
@@ -41,7 +42,7 @@ padding-top: 25px;
     padding-bottom: 25px;
     color: red;
 }
-strong {
+italic {
 font-style: italic;
 }
    .userImage{
@@ -59,5 +60,12 @@ position: absolute;
 bottom: 0px;
 }
 
+#go{
+margin-left: 10px;
+}
 
-
+#user {
+ margin-left: 100px; 
+ margin-top: 25px;
+   
+}

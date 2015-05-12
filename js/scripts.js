@@ -23,6 +23,7 @@ var userName= data.name;
       var image = new Image;
       image.src = data.gravatar_url;
       var totalBadges=data.badges.length;
+    
       
      var img = $('<img src="' + image.src + '" "height=200 width=200" />');
       
@@ -33,6 +34,7 @@ var userName= data.name;
     
     console.log(data);  
     console.log(image);
+      
   
 
     
