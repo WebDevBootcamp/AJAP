@@ -1,0 +1,623 @@
+{
+    "name": "audrey klammer",
+    "profile_name": "audreyklammer",
+    "profile_url": "http://teamtreehouse.com/audreyklammer",
+    "gravatar_url": "https://secure.gravatar.com/avatar/7445ae272195169d5c084f93771de27a?s=200&d=%2F%2Fwac.A8B5.edgecastcdn.net%2F80A8B5%2Fstatic-assets%2Fassets%2Fcontent%2Fdefault_avatar-da0d43531e2db7455dc68b8f80e7dc21.png&r=pg",
+    "gravatar_hash": "7445ae272195169d5c084f93771de27a",
+    "badges": [
+        {
+            "id": 49,
+            "name": "Newbie",
+            "url": "http://teamtreehouse.com/audreyklammer",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/Generic_Newbie.png",
+            "earned_date": "2014-09-07T00:16:34.000Z",
+            "courses": []
+        },
+        {
+            "id": 36,
+            "name": "Principles",
+            "url": "http://teamtreehouse.com/library/aesthetic-foundations/principles",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/Aesthetic_Principles.png",
+            "earned_date": "2014-09-07T00:34:06.000Z",
+            "courses": [
+                {
+                    "title": "Aesthetic Foundations",
+                    "url": "http://teamtreehouse.com/library/aesthetic-foundations",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Principles",
+                    "url": "http://teamtreehouse.com/library/aesthetic-foundations/principles",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Elements",
+            "url": "http://teamtreehouse.com/library/aesthetic-foundations/elements",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/Aesthetic_Elements.png",
+            "earned_date": "2014-09-07T01:27:39.000Z",
+            "courses": [
+                {
+                    "title": "Aesthetic Foundations",
+                    "url": "http://teamtreehouse.com/library/aesthetic-foundations",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Elements",
+                    "url": "http://teamtreehouse.com/library/aesthetic-foundations/elements",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Color Theory",
+            "url": "http://teamtreehouse.com/library/aesthetic-foundations/color-theory",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/Aesthetic_Color_Theory.png",
+            "earned_date": "2014-09-07T05:25:41.000Z",
+            "courses": [
+                {
+                    "title": "Aesthetic Foundations",
+                    "url": "http://teamtreehouse.com/library/aesthetic-foundations",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Color Theory",
+                    "url": "http://teamtreehouse.com/library/aesthetic-foundations/color-theory",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 1022,
+            "name": "Display Modes",
+            "url": "http://teamtreehouse.com/library/css-layout-techniques/display-modes",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_css_csslayouttechniques_stage01.png",
+            "earned_date": "2014-09-08T01:11:20.000Z",
+            "courses": [
+                {
+                    "title": "CSS Layout Techniques",
+                    "url": "http://teamtreehouse.com/library/css-layout-techniques",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Display Modes",
+                    "url": "http://teamtreehouse.com/library/css-layout-techniques/display-modes",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 1032,
+            "name": "Float Layout",
+            "url": "http://teamtreehouse.com/library/css-layout-techniques/float-layout",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_css_csslayouttechniques_stage02.png",
+            "earned_date": "2014-09-09T05:22:06.000Z",
+            "courses": [
+                {
+                    "title": "CSS Layout Techniques",
+                    "url": "http://teamtreehouse.com/library/css-layout-techniques",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Float Layout",
+                    "url": "http://teamtreehouse.com/library/css-layout-techniques/float-layout",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 362,
+            "name": "Coding HTML Email",
+            "url": "http://teamtreehouse.com/library/html-email-design/coding-html-email",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_htmlemail_Stage2.png",
+            "earned_date": "2014-11-07T17:28:40.000Z",
+            "courses": [
+                {
+                    "title": "HTML Email Design",
+                    "url": "http://teamtreehouse.com/library/html-email-design",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Coding HTML Email",
+                    "url": "http://teamtreehouse.com/library/html-email-design/coding-html-email",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 361,
+            "name": "HTML Email Basics",
+            "url": "http://teamtreehouse.com/library/html-email-design/html-email-basics",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_htmlemail_Stage1.png",
+            "earned_date": "2014-11-07T17:45:52.000Z",
+            "courses": [
+                {
+                    "title": "HTML Email Design",
+                    "url": "http://teamtreehouse.com/library/html-email-design",
+                    "badge_count": 1
+                },
+                {
+                    "title": "HTML Email Basics",
+                    "url": "http://teamtreehouse.com/library/html-email-design/html-email-basics",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 3352,
+            "name": "Introduction to Typography",
+            "url": "http://teamtreehouse.com/library/web-typography/introduction-to-typography",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_webtype_Stage1.png",
+            "earned_date": "2014-12-21T22:36:52.000Z",
+            "courses": [
+                {
+                    "title": "Web Typography",
+                    "url": "http://teamtreehouse.com/library/web-typography",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Introduction to Typography",
+                    "url": "http://teamtreehouse.com/library/web-typography/introduction-to-typography",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 3362,
+            "name": "How to Choose and Use Webfonts",
+            "url": "http://teamtreehouse.com/library/web-typography/how-to-choose-and-use-webfonts",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_webtype_Stage2.png",
+            "earned_date": "2014-12-22T21:34:54.000Z",
+            "courses": [
+                {
+                    "title": "Web Typography",
+                    "url": "http://teamtreehouse.com/library/web-typography",
+                    "badge_count": 1
+                },
+                {
+                    "title": "How to Choose and Use Webfonts",
+                    "url": "http://teamtreehouse.com/library/web-typography/how-to-choose-and-use-webfonts",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 338,
+            "name": "Introduction to Design",
+            "url": "http://teamtreehouse.com/library/design-foundations/introduction-to-design",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_DD_DF_Stage1.png",
+            "earned_date": "2015-01-17T10:43:37.000Z",
+            "courses": [
+                {
+                    "title": "Design Foundations",
+                    "url": "http://teamtreehouse.com/library/design-foundations",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Introduction to Design",
+                    "url": "http://teamtreehouse.com/library/design-foundations/introduction-to-design",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 339,
+            "name": "Understanding Aesthetics",
+            "url": "http://teamtreehouse.com/library/design-foundations/understanding-aesthetics",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_DD_DF_Stage2.png",
+            "earned_date": "2015-01-17T11:04:12.000Z",
+            "courses": [
+                {
+                    "title": "Design Foundations",
+                    "url": "http://teamtreehouse.com/library/design-foundations",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Understanding Aesthetics",
+                    "url": "http://teamtreehouse.com/library/design-foundations/understanding-aesthetics",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 341,
+            "name": "Design Foundations Final",
+            "url": "http://teamtreehouse.com/library/design-foundations/design-foundations-final",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_DD_DF_Stage4.png",
+            "earned_date": "2015-01-17T11:13:55.000Z",
+            "courses": [
+                {
+                    "title": "Design Foundations",
+                    "url": "http://teamtreehouse.com/library/design-foundations",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Design Foundations Final",
+                    "url": "http://teamtreehouse.com/library/design-foundations/design-foundations-final",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 340,
+            "name": "Becoming a Problem Solver",
+            "url": "http://teamtreehouse.com/library/design-foundations/becoming-a-problem-solver",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_DD_DF_Stage3.png",
+            "earned_date": "2015-01-17T11:14:55.000Z",
+            "courses": [
+                {
+                    "title": "Design Foundations",
+                    "url": "http://teamtreehouse.com/library/design-foundations",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Becoming a Problem Solver",
+                    "url": "http://teamtreehouse.com/library/design-foundations/becoming-a-problem-solver",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Basics",
+            "url": "http://teamtreehouse.com/library/introduction-to-programming/basics",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/Intro_Programming_Basics.png",
+            "earned_date": "2015-02-02T21:01:13.000Z",
+            "courses": [
+                {
+                    "title": "Introduction to Programming",
+                    "url": "http://teamtreehouse.com/library/introduction-to-programming",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Basics",
+                    "url": "http://teamtreehouse.com/library/introduction-to-programming/basics",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Control Structures",
+            "url": "http://teamtreehouse.com/library/introduction-to-programming/control-structures",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/Intro_Programming_ControlStructures.png",
+            "earned_date": "2015-02-02T21:41:05.000Z",
+            "courses": [
+                {
+                    "title": "Introduction to Programming",
+                    "url": "http://teamtreehouse.com/library/introduction-to-programming",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Control Structures",
+                    "url": "http://teamtreehouse.com/library/introduction-to-programming/control-structures",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Objects and Arrays",
+            "url": "http://teamtreehouse.com/library/introduction-to-programming/objects-and-arrays",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/Intro_Programming_ObjectsArrays.png",
+            "earned_date": "2015-02-02T22:57:20.000Z",
+            "courses": [
+                {
+                    "title": "Introduction to Programming",
+                    "url": "http://teamtreehouse.com/library/introduction-to-programming",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Objects and Arrays",
+                    "url": "http://teamtreehouse.com/library/introduction-to-programming/objects-and-arrays",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Functions",
+            "url": "http://teamtreehouse.com/library/introduction-to-programming/functions",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/Intro_Programming_Functions.png",
+            "earned_date": "2015-02-02T23:13:54.000Z",
+            "courses": [
+                {
+                    "title": "Introduction to Programming",
+                    "url": "http://teamtreehouse.com/library/introduction-to-programming",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Functions",
+                    "url": "http://teamtreehouse.com/library/introduction-to-programming/functions",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Introduction Variables",
+            "url": "http://teamtreehouse.com/library/javascript-foundations/variables",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/JS_var.png",
+            "earned_date": "2015-02-04T05:31:12.000Z",
+            "courses": [
+                {
+                    "title": "JavaScript Foundations",
+                    "url": "http://teamtreehouse.com/library/javascript-foundations",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Variables",
+                    "url": "http://teamtreehouse.com/library/javascript-foundations/variables",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 2122,
+            "name": "Introducing JavaScript",
+            "url": "http://teamtreehouse.com/library/javascript-basics/introducing-javascript",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_JavaScript_Basics_Stage1.png",
+            "earned_date": "2015-04-05T01:48:35.000Z",
+            "courses": [
+                {
+                    "title": "JavaScript Basics",
+                    "url": "http://teamtreehouse.com/library/javascript-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Introducing JavaScript",
+                    "url": "http://teamtreehouse.com/library/javascript-basics/introducing-javascript",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 3182,
+            "name": "JavaScript Numbers",
+            "url": "http://teamtreehouse.com/library/javascript-basics/working-with-numbers",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_JavaScript_Basics_Stage0-34.png",
+            "earned_date": "2015-04-07T06:00:29.000Z",
+            "courses": [
+                {
+                    "title": "JavaScript Basics",
+                    "url": "http://teamtreehouse.com/library/javascript-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Working With Numbers",
+                    "url": "http://teamtreehouse.com/library/javascript-basics/working-with-numbers",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 4602,
+            "name": "JavaScript Objects",
+            "url": "http://teamtreehouse.com/library/javascript-loops-arrays-and-objects/tracking-data-using-objects",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/javascript-loops-stage3.png",
+            "earned_date": "2015-04-14T07:09:27.000Z",
+            "courses": [
+                {
+                    "title": "JavaScript Loops, Arrays and Objects",
+                    "url": "http://teamtreehouse.com/library/javascript-loops-arrays-and-objects",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Tracking Data Using Objects",
+                    "url": "http://teamtreehouse.com/library/javascript-loops-arrays-and-objects/tracking-data-using-objects",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 2832,
+            "name": "PHP Getting Started",
+            "url": "http://teamtreehouse.com/library/php-basics/what-is-php",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badge_php_basics_stage01.png",
+            "earned_date": "2015-04-14T22:10:55.000Z",
+            "courses": [
+                {
+                    "title": "PHP Basics",
+                    "url": "http://teamtreehouse.com/library/php-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "What is PHP?",
+                    "url": "http://teamtreehouse.com/library/php-basics/what-is-php",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 2842,
+            "name": "PHP Data & Structure",
+            "url": "http://teamtreehouse.com/library/php-basics-i/php-data-structure",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badge_php_basics_stage02.png",
+            "earned_date": "2015-04-14T22:43:18.000Z",
+            "courses": [
+                {
+                    "title": "PHP Basics",
+                    "url": "http://teamtreehouse.com/library/php-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "PHP Data & Structure",
+                    "url": "http://teamtreehouse.com/library/php-basics-i/php-data-structure",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 2862,
+            "name": "PHP Conditionals",
+            "url": "http://teamtreehouse.com/library/php-basics-i/php-operators",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badge_php_basics_stage04.png",
+            "earned_date": "2015-04-15T08:20:19.000Z",
+            "courses": [
+                {
+                    "title": "PHP Basics",
+                    "url": "http://teamtreehouse.com/library/php-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "PHP Operators",
+                    "url": "http://teamtreehouse.com/library/php-basics-i/php-operators",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 2852,
+            "name": "PHP Datatypes",
+            "url": "http://teamtreehouse.com/library/php-basics-i/php-datatypes",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badge_php_basics_stage03.png",
+            "earned_date": "2015-04-16T07:16:36.000Z",
+            "courses": [
+                {
+                    "title": "PHP Basics",
+                    "url": "http://teamtreehouse.com/library/php-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "PHP Datatypes",
+                    "url": "http://teamtreehouse.com/library/php-basics-i/php-datatypes",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 812,
+            "name": "Introduction to jQuery",
+            "url": "http://teamtreehouse.com/library/jquery-basics/introduction-to-jquery",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_JavaScript_jQueryBasics_Stage1.png",
+            "earned_date": "2015-04-30T00:19:05.000Z",
+            "courses": [
+                {
+                    "title": "jQuery Basics",
+                    "url": "http://teamtreehouse.com/library/jquery-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Introduction to jQuery",
+                    "url": "http://teamtreehouse.com/library/jquery-basics/introduction-to-jquery",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 822,
+            "name": "Creating a Spoiler Revealer",
+            "url": "http://teamtreehouse.com/library/jquery-basics/creating-a-spoiler-revealer",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_JavaScript_jQueryBasics_Stage2.png",
+            "earned_date": "2015-04-30T02:45:21.000Z",
+            "courses": [
+                {
+                    "title": "jQuery Basics",
+                    "url": "http://teamtreehouse.com/library/jquery-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Creating a Spoiler Revealer",
+                    "url": "http://teamtreehouse.com/library/jquery-basics/creating-a-spoiler-revealer",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 832,
+            "name": "Creating a Simple Lightbox",
+            "url": "http://teamtreehouse.com/library/jquery-basics/creating-a-simple-lightbox",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_JavaScript_jQueryBasics_Stage3.png",
+            "earned_date": "2015-05-02T04:09:22.000Z",
+            "courses": [
+                {
+                    "title": "jQuery Basics",
+                    "url": "http://teamtreehouse.com/library/jquery-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Creating a Simple Lightbox",
+                    "url": "http://teamtreehouse.com/library/jquery-basics/creating-a-simple-lightbox",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 842,
+            "name": "Creating a Mobile Drop Down Menu",
+            "url": "http://teamtreehouse.com/library/jquery-basics/creating-a-mobile-drop-down-menu",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_JavaScript_jQueryBasics_Stage4.png",
+            "earned_date": "2015-05-02T22:25:41.000Z",
+            "courses": [
+                {
+                    "title": "jQuery Basics",
+                    "url": "http://teamtreehouse.com/library/jquery-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Creating a Mobile Drop Down Menu",
+                    "url": "http://teamtreehouse.com/library/jquery-basics/creating-a-mobile-drop-down-menu",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 1622,
+            "name": "AJAX Concepts",
+            "url": "http://teamtreehouse.com/library/ajax-basics/ajax-concepts",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_JavaScript_AJAXBasics_Stage1.png",
+            "earned_date": "2015-05-04T00:58:50.000Z",
+            "courses": [
+                {
+                    "title": "AJAX Basics",
+                    "url": "http://teamtreehouse.com/library/ajax-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "AJAX Concepts",
+                    "url": "http://teamtreehouse.com/library/ajax-basics/ajax-concepts",
+                    "badge_count": 1
+                }
+            ]
+        },
+        {
+            "id": 1632,
+            "name": "Programming AJAX",
+            "url": "http://teamtreehouse.com/library/ajax-basics/programming-ajax",
+            "icon_url": "https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/badges_JavaScript_AJAXBasics_Stage2.png",
+            "earned_date": "2015-05-09T22:34:42.000Z",
+            "courses": [
+                {
+                    "title": "AJAX Basics",
+                    "url": "http://teamtreehouse.com/library/ajax-basics",
+                    "badge_count": 1
+                },
+                {
+                    "title": "Programming AJAX",
+                    "url": "http://teamtreehouse.com/library/ajax-basics/programming-ajax",
+                    "badge_count": 1
+                }
+            ]
+        }
+    ],
+    "points": {
+        "total": 2834,
+        "HTML": 40,
+        "CSS": 259,
+        "Design": 710,
+        "JavaScript": 1540,
+        "Ruby": 48,
+        "PHP": 196,
+        "WordPress": 0,
+        "iOS": 0,
+        "Android": 0,
+        "Development Tools": 2,
+        "Business": 3,
+        "Python": 0,
+        "Java": 0,
+        "Digital Literacy": 0
+    }
+}
