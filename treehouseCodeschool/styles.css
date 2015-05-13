@@ -1,0 +1,557 @@
+
+
+  /* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* End Reset */
+
+/* 
+=======================
+BORDER BOX
+=======================
+*/
+
+*, 
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+/* 
+=======================
+TYPOGRAPHY
+=======================
+*/
+
+/* Start as phone, and expand out */
+
+body {
+  letter-spacing: normal;
+  color: #888;
+  font: normal normal 300 1em/1.375 "Lato", "Trebuchet MS", Arial, Calibri, sans-serif;
+}
+
+p {
+  hyphens: auto;
+  margin-bottom: 22px;
+  font-size: 1em;
+  text-align: left;
+  color: rgb(64, 65, 64);
+  line-height: 1.375;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 2px 7px rgba(80, 80, 80, 0.35);
+    font: normal normal 900 2em/0.938 "Playfair Display", "Trebuchet MS", Arial, Calibri, sans-serif;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  font: italic normal 400 1.625em/0.889 "Lato", "Trebuchet MS", Arial, Calibri, sans-serif;
+}
+
+h3 {
+  color: rgb(125, 130, 134);
+  text-transform: uppercase;
+  font: normal normal 700 1.375em/1.154 "Playfair Display", "Trebuchet MS", Arial, Calibri, sans-serif;
+}
+
+/* Tablet (small) and up */
+@media (min-width: 43.75em) {
+  h1 { font-size: 2em; }
+  h2 { font-size: 1.625em; }
+  h3 { font-size: 1.375em; 
+  color: rgb(125, 130, 134);}
+  h4 { font-size: 1.125em; }
+}
+
+/* Desktop (small), Tablet (large) and up */
+@media (min-width: 56.25em) {
+  h1 { font-size: 3em; }
+  h2 { font-size: 2em; }
+  h3 { font-size: 1.75em; }
+  h4 { font-size: 1.125em; }
+}
+
+/* Desktop (large) and up */
+@media (min-width: 81.25em) {
+  h1 { font-size: 3em; }
+  h2 { font-size: 2em; }
+  h3 { font-size: 1.75em; }
+  h4 { font-size: 1.125em; }
+  p  { font-size: 1.125em; }
+}
+
+/* 
+=======================
+EVENT BOX
+=======================
+*/
+
+.event-info {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.271);
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.75);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+/* 
+=========================
+DECORATIVE SECTION STYLES
+=========================
+*/
+
+#main-content, #badge-section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+@media (min-width: 30em) {
+  #main-content, #badge-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}
+
+#main-content {
+  background:  -webkit-linear-gradient(transparent 20%, black), 
+    url(computerScene.jpeg), no-repeat 30% 100%;
+  width: 100%;
+  margin: auto;
+  background-size: cover;
+  height: 440px;
+  background-position: center;
+}
+
+@media (min-width: 43.75em) {
+  #main-content {
+    background: -webkit-linear-gradient(left, transparent 20%, black), 
+        url(computerScene.jpeg), no-repeat 30% 100%;
+    height: 440px;
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+  }
+}
+
+footer {
+  background-color: rgb(247, 247, 247);
+}
+
+.dash {
+  height: 1px;
+  background: rgb(149, 175, 112);
+  width: 85px;
+  margin: 10px 0 20px 0;
+}
+
+.dash-event {
+  height: 1px;
+  background: rgb(149, 175, 112);
+  width: 85px;
+  margin: -9px -10px 30px 100px;
+}
+
+/* 
+=======================
+FOOTER
+=======================
+*/
+
+footer {
+  height: 90px;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  font-size: .875em;
+  color: rgb(176, 176, 176);
+  line-height: 1.2;
+  text-align: left;
+  padding-top: 35px;
+}
+
+/*
+=======================
+BUTTONS
+=======================
+*/
+
+button {
+  width: 100%;
+  height: 55px;
+  font-size: 1.25em;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 10px;
+}
+
+.button,
+button {
+  display: inline-block;
+  padding: 0 30px;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  box-sizing: border-box; }
+.button:hover,
+button:hover,
+.button:focus,
+button:focus {
+  color: #333;
+  border: none;
+  outline: 0; }
+.button.button-primary,
+button.button-primary {
+  color: #FFF;
+  background: linear-gradient(to bottom, #f66917 0%, #e34e35 50%, #c23a44 100%);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.55);
+  border-color: #f66917; }
+.button.button-primary:hover,
+button.button-primary:hover,
+.button.button-primary:focus,
+button.button-primary:focus{
+  color: #FFF;
+  background: linear-gradient(to bottom, #c23a44 0%, #e34e35 50%, #f66917 100%);
+  border-color: #e34e35; }
+
+  @media (min-width: 25em) {
+  button {
+  }
+}
+
+@media (min-width: 56.25em) {
+  button {
+    font-size: 1.25em;
+  }
+}
+
+/*
+=======================
+BUTTONS2
+=======================
+*/
+
+#event-submit {
+  width: 100%;
+  font-size: 1.375em;
+  text-align: center;
+  display: inline-block;
+  padding: 0 30px;
+  height: 50px;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  box-sizing: border-box; 
+  color: #FFF;
+  background: linear-gradient(to bottom, #f66917 0%, #e34e35 50%, #c23a44 100%);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.55);
+  border-color: #f66917; 
+ }
+
+#event-submit:hover,
+#event-submit:focus
+{
+  outline: 0; 
+  color: #FFF;
+  background: linear-gradient(to bottom, #c23a44 0%, #e34e35 50%, #f66917 100%);
+  border-color: #e34e35; 
+}
+
+/* Tablet (small) and up, 700px */
+@media (min-width: 43.75em) {
+  #event-submit {
+    padding: 0;
+  }
+
+/*
+=======================
+GRID
+=======================
+*/
+
+/* Using Skeleton */
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box; }
+.column,
+.columns {
+  width: 100%;
+  float: left;
+  box-sizing: border-box; }
+
+/* For devices larger than 400px */
+@media (min-width: 25em) {
+  .container {
+    width: 85%;
+    padding: 0; }
+}
+
+/* For devices larger than 550px */
+@media (min-width: 34.375em) {
+  .container {
+    width: 80%; }
+  .column,
+  .columns {
+    margin-left: 4%; }
+  .column:first-child,
+  .columns:first-child {
+    margin-left: 0; }
+
+  .one.column,
+  .one.columns                    { width: 4.66666666667%; }
+  .two.columns                    { width: 13.3333333333%; }
+  .three.columns                  { width: 22%;            }
+  .four.columns                   { width: 30.6666666667%; }
+  .five.columns                   { width: 39.3333333333%; }
+  .six.columns                    { width: 48%;            }
+  .seven.columns                  { width: 56.6666666667%; }
+  .eight.columns                  { width: 65.3333333333%; }
+  .nine.columns                   { width: 74.0%;          }
+  .ten.columns                    { width: 82.6666666667%; }
+  .eleven.columns                 { width: 91.3333333333%; }
+  .twelve.columns                 { width: 100%; margin-left: 0; }
+
+  .one-third.column               { width: 30.6666666667%; }
+  .two-thirds.column              { width: 65.3333333333%; }
+
+  .one-half.column                { width: 48%; }
+
+  /* Offsets */
+  .offset-by-one.column,
+  .offset-by-one.columns          { margin-left: 8.66666666667%; }
+  .offset-by-two.column,
+  .offset-by-two.columns          { margin-left: 17.3333333333%; }
+  .offset-by-three.column,
+  .offset-by-three.columns        { margin-left: 26%;            }
+  .offset-by-four.column,
+  .offset-by-four.columns         { margin-left: 34.6666666667%; }
+  .offset-by-five.column,
+  .offset-by-five.columns         { margin-left: 43.3333333333%; }
+  .offset-by-six.column,
+  .offset-by-six.columns          { margin-left: 52%;            }
+  .offset-by-seven.column,
+  .offset-by-seven.columns        { margin-left: 60.6666666667%; }
+  .offset-by-eight.column,
+  .offset-by-eight.columns        { margin-left: 69.3333333333%; }
+  .offset-by-nine.column,
+  .offset-by-nine.columns         { margin-left: 78.0%;          }
+  .offset-by-ten.column,
+  .offset-by-ten.columns          { margin-left: 86.6666666667%; }
+  .offset-by-eleven.column,
+  .offset-by-eleven.columns       { margin-left: 95.3333333333%; }
+
+  .offset-by-one-third.column,
+  .offset-by-one-third.columns    { margin-left: 34.6666666667%; }
+  .offset-by-two-thirds.column,
+  .offset-by-two-thirds.columns   { margin-left: 69.3333333333%; }
+
+  .offset-by-one-half.column,
+  .offset-by-one-half.columns     { margin-left: 52%; }
+}
+
+/*
+=======================
+FORM
+=======================
+*/
+
+input, select {
+  width: 100%;
+  font-size: 1em;
+  margin-bottom: 15px;
+}
+
+input[type="email"],
+input[type="text"],
+select {
+  height: 38px;
+  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  background-color: #fff;
+  border: 1px solid #D1D1D1;
+  border-radius: 4px;
+  box-shadow: none;
+  box-sizing: border-box; }
+/* Removes awkward default styles on some inputs for iOS */
+input[type="email"],
+input[type="text"] {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none; }
+input[type="email"]:focus,
+input[type="text"]:focus,
+select:focus {
+  border: 1px solid #33C3F0;
+  outline: 0; }
+label {
+  display: block;
+  color: rgb(255, 255, 255);
+  margin-bottom: 5px;
+  font-weight: 700; 
+}
+label > .label-body {
+  display: inline-block;
+  margin-left: .5rem;
+  font-weight: normal; }
+
+
+  @media (min-width: 43.75em) {
+  input, select {
+    margin-bottom: 10px;
+  }
+}
+
+/* Self Clearing Goodness */
+.container:after,
+.row:after,
+.u-cf {
+  content: "";
+  display: table;
+  clear: both; 
+}
+
+/*
+============================
+ONLY MAX-WIDTH MEDIA QUERIES 
+============================
+*/
+
+@media (max-width: 48.75em) {
+  #main-content .eight.columns {
+  width: 100%;
+  }
+
+  #main-content  .event-info {
+    margin-left: 0;
+  }
+
+  #main-content  .four.columns {
+  width: 100%;
+  }
+}
+
+/* These are styles for higher resolution iPhone images, haven't used them yet */
+/* Need to add a @2x image
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5) {
+  .logo {
+    background-image: url(logo@2x.png);
+    -webkit-background-size: 12px 16px;
+    background-size: 12px 16px;
+  }
+}
+*/
+
+
+a {
+  word-wrap: break-word;
+}
+
+.badgeImages {
+  display: inline-block;
+  margin: 2px; 
+}
+
+#coding-form h2 {
+  font-size: 1.5em;
+  line-height: 1.3;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.pointsLessons h3, .pointsLessons2 h3 {
+  margin-bottom: 20px;
+  text-align: center;
+  text-transform: none;
+  font-size: 26px
+}
+
+#badge-section {
+  text-align: center;
+}
+
+.badges li, .badges2 li {
+  width: 12%;
+}
+
+.badges li img, .badges2 li img  {
+  width: 100%;
+}
+
+.badges2, .badges {
+  text-align:center;
+}
+

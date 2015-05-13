@@ -1,0 +1,241 @@
+{
+    "user": {
+        "username": "audreyklammer",
+        "member_since": "2014-06-07T03:26:15Z",
+        "total_score": 65225,
+        "avatar": "http://gravatar.com/avatar/7445ae272195169d5c084f93771de27a.jpg?s=80&r=pg"
+    },
+    "courses": {
+        "completed": [
+            {
+                "title": "Journey Into Mobile",
+                "url": "http://www.codeschool.com/courses/journey-into-mobile",
+                "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/102/completed-journey-into-mobile-9c1cfe569a838cc2acd84afc47712674.png"
+            },
+            {
+                "title": "JavaScript Road Trip Part 2",
+                "url": "http://www.codeschool.com/courses/javascript-road-trip-part-2",
+                "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/300/completed-javascript-road-trip-part-2-d4fd45ae7ecb6601fe4a0c8d506ca306.png"
+            },
+            {
+                "title": "JavaScript Road Trip Part 1",
+                "url": "http://www.codeschool.com/courses/javascript-road-trip-part-1",
+                "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/296/completed-javascript-road-trip-part-1-b9f5af5196fb596271f7f97b6b477d24.png"
+            },
+            {
+                "title": "Try Git",
+                "url": "http://www.codeschool.com/courses/try-git",
+                "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/121/completed-try-git-b54d1cd9fa940e4a3c1925056d38eca2.png"
+            },
+            {
+                "title": "Front-end Formations",
+                "url": "http://www.codeschool.com/courses/front-end-formations",
+                "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/315/completed-front-end-formations-165329e44a56cd6d401c0c60369d368e.png"
+            },
+            {
+                "title": "Fundamentals of Design",
+                "url": "http://www.codeschool.com/courses/fundamentals-of-design",
+                "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/277/completed-fundamentals-of-design-b9f4f4d4ff73f8a9fdff2043a223404e.png"
+            },
+            {
+                "title": "CSS Cross-Country",
+                "url": "http://www.codeschool.com/courses/css-cross-country",
+                "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/40/completed-css-cross-country-ec9a9aa14797031680577e7a986bef75.png"
+            }
+        ],
+        "in_progress": [
+            {
+                "title": "Mastering GitHub",
+                "url": "http://www.codeschool.com/courses/mastering-github",
+                "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/443/complete-mastering-github-e998c0ab56c79b9074ad5e3c1427691a.png"
+            },
+            {
+                "title": "JavaScript Road Trip Part 3",
+                "url": "http://www.codeschool.com/courses/javascript-road-trip-part-3",
+                "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/321/completed-javascript-road-trip-part-3-6c96fe52f9c68b790937d3db2110325a.png"
+            }
+        ]
+    },
+    "badges": [
+        {
+            "name": "Completed CSS Cross-Country",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/40/completed-css-cross-country-ec9a9aa14797031680577e7a986bef75.png",
+            "course_url": "http://www.codeschool.com/courses/css-cross-country"
+        },
+        {
+            "name": "Level 1 on CSS Cross-Country",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/41/level-1-on-css-cross-country-96fb99da28e17edb7da62911777bf1d3.png",
+            "course_url": "http://www.codeschool.com/courses/css-cross-country"
+        },
+        {
+            "name": "Level 1 on Fundamentals of Design",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/278/level-1-on-fundamentals-of-design-6aee5bf14eccf277d180785ad70f0d18.png",
+            "course_url": "http://www.codeschool.com/courses/fundamentals-of-design"
+        },
+        {
+            "name": "Level 1 on Journey into Mobile",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/103/level-1-on-journey-into-mobile-38943a0dda8082a17e2bcc254325e729.png",
+            "course_url": "http://www.codeschool.com/courses/journey-into-mobile"
+        },
+        {
+            "name": "Level 1 on JavaScript Road Trip Part 2",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/301/level-1-on-javascript-road-trip-part-2-baf68d7f42f8b6b5f185a356de5690b2.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-2"
+        },
+        {
+            "name": "Level 1 on JavaScript Road Trip Part 3",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/322/level-1-on-javascript-road-trip-part-3-9ad1dad72f2be56c98fe319ea809be32.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-3"
+        },
+        {
+            "name": "Level 1 on Front-end Formations",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/316/level-1-on-front-end-formations-c27483b64148275c96bb8d0c999893d9.png",
+            "course_url": "http://www.codeschool.com/courses/front-end-formations"
+        },
+        {
+            "name": "Level 1 on JavaScript Road Trip Part 1",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/297/level-1-on-javascript-road-trip-part-1-ff645bd94243922a90b775da5ee2647c.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-1"
+        },
+        {
+            "name": "Level 2 on CSS Cross-Country",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/42/level-2-on-css-cross-country-43b9d83055fa06b607cb0cf1215a0e70.png",
+            "course_url": "http://www.codeschool.com/courses/css-cross-country"
+        },
+        {
+            "name": "Level 2 on Journey into Mobile",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/104/level-2-on-journey-into-mobile-520441dac8d2b9fe4deae674e7f1ecb7.png",
+            "course_url": "http://www.codeschool.com/courses/journey-into-mobile"
+        },
+        {
+            "name": "Level 2 on JavaScript Road Trip Part 3",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/323/level-2-on-javascript-road-trip-part-3-e58e3b10b168279919542555c1c961d9.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-3"
+        },
+        {
+            "name": "Level 2 on JavaScript Road Trip Part 1",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/298/level-2-on-javascript-road-trip-part-1-e568b2c31b1fd0da0dc94cc4d5452150.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-1"
+        },
+        {
+            "name": "Level 2 on Front-end Formations",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/317/level-2-on-front-end-formations-f8f7a7c43e94c88a4e2631386777fc73.png",
+            "course_url": "http://www.codeschool.com/courses/front-end-formations"
+        },
+        {
+            "name": "Level 2 on JavaScript Road Trip Part 2",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/302/level-2-on-javascript-road-trip-part-2-e691e2995191012f4d5ff4bf9664cc05.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-2"
+        },
+        {
+            "name": "Level 2 on Fundamentals of Design",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/279/level-2-on-fundamentals-of-design-f317d98005bbbcb64332ffa40e7da3d0.png",
+            "course_url": "http://www.codeschool.com/courses/fundamentals-of-design"
+        },
+        {
+            "name": "Level 3 on CSS Cross-Country",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/43/level-3-on-css-cross-country-2b35c588ea146a297f629d5cf733ff90.png",
+            "course_url": "http://www.codeschool.com/courses/css-cross-country"
+        },
+        {
+            "name": "Level 3 on JavaScript Road Trip Part 1",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/299/level-3-on-javascript-road-trip-part-1-ae7652ab8f363e27fea8afe06cee30e3.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-1"
+        },
+        {
+            "name": "Level 3 on Journey into Mobile",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/105/level-3-on-journey-into-mobile-d179708d37f471ca87f3e3db0a8f1fe8.png",
+            "course_url": "http://www.codeschool.com/courses/journey-into-mobile"
+        },
+        {
+            "name": "Level 3 on JavaScript Road Trip Part 2",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/303/level-3-on-javascript-road-trip-part-2-ad721f643fdf8de2665d40e7c26826ef.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-2"
+        },
+        {
+            "name": "Level 3 on Front-end Formations",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/318/level-3-on-front-end-formations-5db12952d80199300bd5106e47f84b44.png",
+            "course_url": "http://www.codeschool.com/courses/front-end-formations"
+        },
+        {
+            "name": "Level 3 on Fundamentals of Design",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/280/level-3-on-fundamentals-of-design-ace096931085868e735c7bacd461dae9.png",
+            "course_url": "http://www.codeschool.com/courses/fundamentals-of-design"
+        },
+        {
+            "name": "Level 4 on Journey into Mobile",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/106/level-4-on-journey-into-mobile-b1604a6c2640a14ecef6d93885c57fbc.png",
+            "course_url": "http://www.codeschool.com/courses/journey-into-mobile"
+        },
+        {
+            "name": "Level 4 on CSS Cross-Country",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/44/level-4-on-css-cross-country-812c700bf5d3aa4abce2eeb1187081bb.png",
+            "course_url": "http://www.codeschool.com/courses/css-cross-country"
+        },
+        {
+            "name": "Level 4 on Front-end Formations",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/319/level-4-on-front-end-formations-f76933da76d45889cd6441de1987413f.png",
+            "course_url": "http://www.codeschool.com/courses/front-end-formations"
+        },
+        {
+            "name": "Level 4 on JavaScript Road Trip Part 2",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/304/level-4-on-javascript-road-trip-part-2-9f89ee08fc861e56070d76312e305f7c.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-2"
+        },
+        {
+            "name": "Level 5 on CSS Cross-Country",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/45/level-5-on-css-cross-country-b7ef43220bbf0447349b8fb10fb71f34.png",
+            "course_url": "http://www.codeschool.com/courses/css-cross-country"
+        },
+        {
+            "name": "Level 5 on JavaScript Road Trip Part 2",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/305/level-5-on-javascript-road-trip-part-2-f8e71724cc96cd76a8153c75d55dffaf.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-2"
+        },
+        {
+            "name": "Level 5 on Front-end Formations",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/320/level-5-on-front-end-formations-cb3cef3fb878f727936622823c99698d.png",
+            "course_url": "http://www.codeschool.com/courses/front-end-formations"
+        },
+        {
+            "name": "Level 6 on CSS Cross-Country",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/46/level-6-on-css-cross-country-f6a27acffa789bf7725fc9f046fc4254.png",
+            "course_url": "http://www.codeschool.com/courses/css-cross-country"
+        },
+        {
+            "name": "Level 7 on CSS Cross-Country",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/47/level-7-on-css-cross-country-5a39ca2a094961f9c82b71f7ddbccbfb.png",
+            "course_url": "http://www.codeschool.com/courses/css-cross-country"
+        },
+        {
+            "name": "Completed Journey into Mobile",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/102/completed-journey-into-mobile-9c1cfe569a838cc2acd84afc47712674.png",
+            "course_url": "http://www.codeschool.com/courses/journey-into-mobile"
+        },
+        {
+            "name": "Completed Try Git",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/121/completed-try-git-b54d1cd9fa940e4a3c1925056d38eca2.png",
+            "course_url": "http://www.codeschool.com/courses/try-git"
+        },
+        {
+            "name": "Completed Fundamentals of Design",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/277/completed-fundamentals-of-design-b9f4f4d4ff73f8a9fdff2043a223404e.png",
+            "course_url": "http://www.codeschool.com/courses/fundamentals-of-design"
+        },
+        {
+            "name": "Completed JavaScript Road Trip Part 1",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/296/completed-javascript-road-trip-part-1-b9f5af5196fb596271f7f97b6b477d24.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-1"
+        },
+        {
+            "name": "Completed JavaScript Road Trip Part 2",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/300/completed-javascript-road-trip-part-2-d4fd45ae7ecb6601fe4a0c8d506ca306.png",
+            "course_url": "http://www.codeschool.com/courses/javascript-road-trip-part-2"
+        },
+        {
+            "name": "Completed Front-end Formations",
+            "badge": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/315/completed-front-end-formations-165329e44a56cd6d401c0c60369d368e.png",
+            "course_url": "http://www.codeschool.com/courses/front-end-formations"
+        }
+    ]
+}
