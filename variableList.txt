@@ -1,0 +1,27 @@
+List of variables
+
+in ajap.js, we have
+
+getInfo
+url
+encodeURIComponent
+userName
+totalPoints
+image
+image.src
+totalBadges
+userInfo
+
+****************************************
+in app.js, we have
+
+userName
+getBadges
+element
+badges
+i
+badge
+badge.icon_url
+dataBack
+
+
