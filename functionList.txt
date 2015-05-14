@@ -1,0 +1,33 @@
+functionList
+In ajap.js we have,
+
+$()
+.ready()
+.click
+getBadges()
+.points.Lessons()
+return()
+getInfo()
+encodeURIComponents()
+.val()
+.done
+$.ajax()
+.html()
+.append()
+.log()
+
+and a lot of these seem like methods (too?)
+
+In app.js we have,
+
+$()
+.ready()
+.submit()
+.val()
+getBadges()
+.log()
+.ajax()
+.html()
+.append()
+.forEach()
+if ()
