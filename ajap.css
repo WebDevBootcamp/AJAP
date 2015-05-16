@@ -87,11 +87,11 @@ a:hover {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
-    height: 70%;
+    height: 58%;
     -webkit-justify-content: space-around;
     justify-content: space-around;
     position: relative;
-    width: 100%;
+    width: 115%;
     text-align: center;
     background-attachment: fixed;
     background-size: cover;
@@ -170,9 +170,6 @@ h3{
     border-radius: 10px;
 }
 
-section#badge-section:{
-    background:blue;
-}
 
 .input{
     width:50%;
