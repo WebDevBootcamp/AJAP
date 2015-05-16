@@ -1,15 +1,82 @@
 <!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title>Aaron's Treehouse badges</title>
-</head>
-<body>
-<ul>
-    <li>
-    <img src="https://wac.A8B5.edgecastcdn.net/80A8B5/achievement-images/Generic_Newbie.png" alt="TreehouseBadge">
-    </li>
-</ul>
 
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <title>Badges</title>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+            <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootlint/0.12.0/bootlint.min.js"></script>
+
+    <link href="ajap.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+<!--scrolling header-->
+<div class="jumbotron"  id ="header_image">
+
+        <h1>LEARN TO CODE</h1>
+        <h2>SHOW OFF YOUR BADGES!</h2>
+</div>
+              <!--input form for codeschool and treehouse app-->
+            <div class="four columns event-info">
+                <form id="coding-form">
+                     <div class="u-full-width">
+                        <div class="input">
+                        <label for="firstName">Enter Your Username</label>
+
+                        <form class="navbar-form navbar-left" role="search">
+                            <div class="form-group">
+                                <input type="text" id="usernameTreehouse" placeholder="Treehouse Username"  class="form-control"></br>
+                                <input type="text" id="usernameCodeschool" placeholder="Codeschool Username"  class="form-control">
+                            </div>
+                            <button type="submit" id="event-submit"  class="btn btn-default" value="find my badges">Go</button>
+                        </form></div>
+                    </div>
+                </form>
+            </div>
+
+
+<!-- This is the about us section -->
+
+<section id="badge-section">
+    <div class="container">
+        <div class="row">
+            <div class="twelve columns">
+                <div class="pointsLessons"></div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="four columns">
+                <div class="pointsLessons"></div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <div class="footer">
+                <p>©2015 All Rights Reserved.</p>
+
+            </div>
+
+<script src="jquery-2.1.1.min.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
