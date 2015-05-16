@@ -54,7 +54,7 @@ a:hover {
     -webkit-justify-content: space-around;
     justify-content: space-around;
     position: relative;
-    width: 100%;
+    width: 70%;
     text-align: center;
     background-attachment: fixed;
     background-size: cover;
@@ -66,8 +66,6 @@ a:hover {
 #header_image {
     background-image: url("https://download.unsplash.com/photo-1414637104192-f9ab9a0ee249");
 }
-
-
 
 .jumbotron {
     -webkit-align-content: center;
@@ -89,7 +87,7 @@ a:hover {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
-    height: 65%;
+    height: 70%;
     -webkit-justify-content: space-around;
     justify-content: space-around;
     position: relative;
@@ -194,4 +192,10 @@ section#badge-section:{
     position: absolute;
     bottom: -300px;
 }
-
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #726969;
+}
