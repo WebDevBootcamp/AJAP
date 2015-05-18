@@ -13,7 +13,6 @@ html {
         font-size: 16px;
     }
 }
-
 /* mysterious header image setting*/
 body, html {
     text-rendering: optimizeLegibility;
@@ -30,8 +29,8 @@ a {
 
 a:hover {
     background-color: rgba(0, 0, 0, 0.55);}
-    section {
--webkit-align-content: center;
+section {
+    -webkit-align-content: center;
 
     align-content: center;
     -webkit-box-align: center;
@@ -50,7 +49,7 @@ a:hover {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
-    height: 50%;
+<!--height: 50%;-->
     -webkit-justify-content: space-around;
     justify-content: space-around;
     position: relative;
@@ -64,7 +63,20 @@ a:hover {
 
 
 #header_image {
+
     background-image: url("https://download.unsplash.com/photo-1414637104192-f9ab9a0ee249");
+    height: 500px;
+}
+
+.logo {
+    margin-top: -480px;
+    margin-left: 25px;
+}
+.headerText {
+
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .jumbotron {
@@ -87,7 +99,7 @@ a:hover {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
-    height: 58%;
+<!--height: 58%;-->
     -webkit-justify-content: space-around;
     justify-content: space-around;
     position: relative;
@@ -108,17 +120,17 @@ a:hover {
 
 
 
- h2 {
+h2 {
     color:black;
     font-size: 2.25em;
     font-family:Montserrat, serif;
-     text-shadow: 2px 2px #B3D962;
+    text-shadow: 2px 2px #B3D962;
 
 
 }
 .hgroup {
     width: 100%;
-    height: 100%;
+    height: 100vh;
     top: 0;
     bottom: 0;
     left: 0;
@@ -147,7 +159,7 @@ a:hover {
 
 h3{
     padding:10px
-    height:60px;
+height:60px;
     width:40%;
     color:black;
     font-size: 1em;
@@ -156,43 +168,47 @@ h3{
     margin-bottom: 0.25em;
     text-shadow: 2px 2px #B3D962;
     background-color:#B3D962;
-   margin-left:6%;
+    margin-left:6%;
 }
 
 
 
 .u-full-width{
     position: absolute;
-    width: 50%;
-    background-color: #488C03;
-    margin-left:20px;
-    margin-top: 20px;
+    width: 280px;
+    background-color:#003300;
     border-radius: 10px;
+    color: white;
+    font-size: 15px;
+
 }
 
 
 .input{
-    width:50%;
-    margin-left: 40px;
-    padding: 10px;
+
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 
 }
 
 .footer {
-   margin-bottom: -10px;
+    bottom: 0px;
     background-color: black;
     width: 100%;
     text-align: center;
     font-size: 12px;
     color: white;
+    padding-top:5px;
     position: absolute;
-    bottom: -300px;
+
 }
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
-    line-height: 1.42857143;
     color: #333;
     background-color: #726969;
 }
