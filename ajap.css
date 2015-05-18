@@ -49,7 +49,11 @@ section {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
+<<<<<<< HEAD
 <!--height: 50%;-->
+=======
+    <!--height: 50%;-->
+>>>>>>> 0d70896fedad897a83e3bb0e5297d28b9b384732
     -webkit-justify-content: space-around;
     justify-content: space-around;
     position: relative;
@@ -63,12 +67,17 @@ section {
 
 
 #header_image {
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 0d70896fedad897a83e3bb0e5297d28b9b384732
     background-image: url("https://download.unsplash.com/photo-1414637104192-f9ab9a0ee249");
     height: 500px;
 }
 
 .logo {
+<<<<<<< HEAD
     margin-top: -480px;
     margin-left: 25px;
 }
@@ -77,8 +86,18 @@ section {
     margin-top: 200px;
     margin-left: auto;
     margin-right: auto;
+=======
+margin-top: -480px;
+    margin-left: 25px;
+>>>>>>> 0d70896fedad897a83e3bb0e5297d28b9b384732
 }
+.headerText {
 
+margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
 .jumbotron {
     -webkit-align-content: center;
     -ms-flex-line-pack: center;
@@ -99,7 +118,11 @@ section {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
+<<<<<<< HEAD
 <!--height: 58%;-->
+=======
+    <!--height: 58%;-->
+>>>>>>> 0d70896fedad897a83e3bb0e5297d28b9b384732
     -webkit-justify-content: space-around;
     justify-content: space-around;
     position: relative;
@@ -180,12 +203,20 @@ height:60px;
     border-radius: 10px;
     color: white;
     font-size: 15px;
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 0d70896fedad897a83e3bb0e5297d28b9b384732
 }
 
 
 .input{
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 0d70896fedad897a83e3bb0e5297d28b9b384732
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -196,7 +227,11 @@ height:60px;
 }
 
 .footer {
+<<<<<<< HEAD
     bottom: 0px;
+=======
+   bottom: 0px;
+>>>>>>> 0d70896fedad897a83e3bb0e5297d28b9b384732
     background-color: black;
     width: 100%;
     text-align: center;
@@ -204,7 +239,11 @@ height:60px;
     color: white;
     padding-top:5px;
     position: absolute;
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 0d70896fedad897a83e3bb0e5297d28b9b384732
 }
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
