@@ -1,0 +1,71 @@
+.header{
+position: fixed;
+height: 200px;
+width:100%;
+    background-color: #26537c;
+
+
+
+}
+.logo {
+
+margin-left:50px;
+    margin-top: 10px;
+}
+
+.row {
+    position: absolute;
+    background-color: #e7facf;
+    margin-left:35px;
+    margin-right:35px;
+    margin-top: 170px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  
+    
+}
+
+.input-group{
+width: 220px;
+margin-bottom: 35px;
+    margin-left: -4px;
+  
+  }
+
+p {
+     position: relative;
+     width:220px;
+    margin-top: 25px;
+}
+#weatherInfo {
+padding-top: 25px;
+    padding-bottom: 25px;
+    color: red;
+}
+italic {
+font-style: italic;
+}
+   .userImage{
+    padding-bottom: 20px;
+
+   }
+.footer {
+line-height: 30px;
+   background-color: #26537c;
+width: 100%;
+text-align: center;
+font-size:12px;
+ color: white;
+position: absolute;
+bottom: 0px;
+}
+
+#go{
+margin-left: 10px;
+}
+
+#user {
+ margin-left: 100px; 
+ margin-top: 25px;
+   
+}

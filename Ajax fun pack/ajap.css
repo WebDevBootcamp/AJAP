@@ -1,0 +1,181 @@
+@import url(http://fonts.googleapis.com/css?family=Arapey:400italic|Montserrat:400,700);
+html {
+    font-size: 10px;
+}
+@media (min-width: 600px) {
+    html {
+        font-size: 14px;
+    }
+}
+@media (min-width: 800px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* mysterious header image setting*/
+body, html {
+    text-rendering: optimizeLegibility;
+    text-shadow: rgba(0, 0, 0, 0.25) 0 0 1px;
+    height: 100%;
+}
+
+a {
+    color: #fff;
+    -webkit-transition: all 300ms ease-in;
+    transition: all 500ms ease-in;
+    padding: 5px;
+}
+
+a:hover {
+    background-color: rgba(0, 0, 0, 0.55);}
+section {
+    -webkit-align-content: center;
+
+    align-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    height: 50%;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+
+#header_image {
+    background-image: url("https://download.unsplash.com/photo-1414637104192-f9ab9a0ee249");
+}
+
+
+
+.jumbotron {
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    height: 65%;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:  center;
+}
+.jumbotron h1{
+    color:black;
+    font-size: 4em;
+    text-transform: uppercase;
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0.25em;
+    text-shadow: 2px 2px #B3D962;
+}
+
+
+
+h2 {
+    color:black;
+    font-size: 2.25em;
+    font-family:Montserrat, serif;
+    text-shadow: 2px 2px #B3D962;
+
+
+}
+.hgroup {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.2);
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+h3{
+    padding:10px
+height:60px;
+    width:40%;
+    color:black;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0.25em;
+    text-shadow: 2px 2px #B3D962;
+    background-color:#B3D962;
+    margin-left:6%;
+}
+
+
+.input{
+    width:50%;
+    margin-left: 40px;
+    padding: 10px;
+
+
+}
+
+.footer {
+    margin-bottom: -10px;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+    position: absolute;
+    bottom: -300px;
+}
