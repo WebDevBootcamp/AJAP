@@ -6,8 +6,8 @@ A simple jquery plugIn that lets high level computer users keep track of their l
 ####Code Example
     $(document).ready(function(){
 	var user = document.querySelector('.insignia');
-	$(".insignia").insignia(user.dataset.treehouse, user.dataset.codeschool);
-});
+	$(".insignia").insignia(user.dataset.treehouse, user.dataset.codeschool);});
+
         
 ####Motive/Influences
 Treehouse, Code School, WebLab, programming
