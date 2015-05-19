@@ -1,72 +1,39 @@
 #Readme
 
-Insignia Badges
+Insignia Badges  
+A simple jquery plugIn that lets high level computer users keep track of their learning on thier own dashboard or blog so that they are motivated to keep learning even if they turned off their email notifications for each school.
 
 ####Code Example
-    
-    $('#yourDiv').insignia({
-    usernameTreehouse: 'joseg',
-    usernameCodeschool: 'joseg'
-    });
-    
+    $(document).ready(function(){
+	var user = document.querySelector('.insignia');
+	$(".insignia").insignia(user.dataset.treehouse, user.dataset.codeschool);
+});
+        
 ####Motive/Influences
 Treehouse, Code School, WebLab, programming
 
-####Installation
-No installation necessary.  Just go to [https://github.com/WebDevBootcamp/AJAP.git](https://github.com/WebDevBootcamp/AJAP.git)
-Copy the code
-Paste the code
+####Demo and Installation
+No installation necessary.  Just go to [https://github.com/WebDevBootcamp/AJAP.git](https://github.com/WebDevBootcamp/AJAP.git)  
+Copy the code   
+Paste the code  
+  
 You have the option of placing this into any section of your site and inputting your username in **CodeSchool** or in **Treehouse**:  
 
 `
-<div class="insignia" data-codeschool="audreyklammer" data-treehouse=""></div>
+<div class="insignia" data-codeschool="username" data-treehouse="username"></div>
 `  
 
-####API Reference
-[https://github.com/WebDevBootcamp/AJAP.git](https://github.com/WebDevBootcamp/AJAP.git)
-
 ###Testing
-For testing username()
-
-	<script>
-	function username() {
-	var x, text;
-	
-	// Get the value of the input field with id="numb"
-	x = document.getElementById("numb").value;
-	
-	// If x is Not a Number or less than one or greater than 10
-	if (!string(x)) {
-	text = "Input not valid";
-	} else {
-	text = "Input OK";
-	}
-	document.getElementById("demo").innerHTML = text;
-	}
-</script>
-
-For testing getBadges()
-
-    <script>
-    	function getBadges() {
-    	var x, text;
-    	
-    	// Get the value of the input field with id="numb"
-    	x = document.getElementById("numb").value;
-    	
-    	// If x is Not a Number or less than one or greater than 10
-    	if (!$ajax(x)) {
-    	text = "Input not valid";
-    	} else {
-    	text = "Input OK";
-    	}
-    	document.getElementById("demo").innerHTML = text;
-    	}
-    </script>
+Please submit tests. Ajap is Open-Source.  
+    
+    your test code here
 
 ####Contributors
-Aaron, Jose Audrey Prakash
+@Aaron
+@Jose
+@Audrey
+@Prakash
 
 ####License
-Describe the license (MIT, Apache, etc.) in a word or two.
+Open Source
 

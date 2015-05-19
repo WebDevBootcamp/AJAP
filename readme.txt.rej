@@ -1,0 +1,52 @@
+diff a/readme.txt b/readme.txt	(rejected hunks)
+@@ -1,37 +0,36 @@
+-Here is a skeleton for a README.md
++README.md
+ 
+ Synopsis
+ CodeExample
+ Motivation
+ Installation
+ API Reference
+ Tests
+ Contributors
+ License
+-Synopsis
+-
+ 
+-Readme
+-A short introduction and/ or overview explaining the project. This description matches descriptions added for package managers (Gemspec, package.json, etc.)
++Synopsis
++This application will watch your learning progress on a number of websites.  It will output a display of your badges in your own website as a pasteable widget.
+ 
+ Example
+-Make the API obvious. Short, concise demonstration that enables any developer to use your code as a tool for problem solving.
++Using Team Treehouse API, we use dev tools to select images as code. Problem solving is updating changing data.
+ 
+ Motive/Influences
+-Why are we creating this and how long will it last? Will there be any maintenance?  Where did our ideas come from? Where did we lift code?
++We are creating this because we are developers and this tool will be of use to us.  We will maintain this site as long as is necessary to keep track of our badges and learning progress.... 
++Our influences are the Team Treehouse API.  We use github and slack.
+ 
+ Installation
+-Simple How-to
++Go to the insignia website.  select import badge widget.  customize widget.
+ 
+ API Reference
+-Reference documentation stored as a library, glossary, index or link to these.
++Team Treehouse, Nate's Magic website, Nate's Fixit Website, Nates Emporium
+ 
+ Test
+-Describe and show how to run the tests with code examples.  What testing software?
++It('should do specific things', function(){} ...);
++We are using npm to test our values and our data.
+ 
+ Contributors
+-Who's on it?  What issue tickets initiated the project?  Current?
++Aaron, Jose, Audrey, Prakhash contributed.  Initiated as a desire to keep track of our learning progress on 5.7.2015   Currently building...
+ 
+ License
+-Describe the license (MIT, Apache, etc.) in a word or two.
+-
++AllRightsReserved
+\ No newline at end of file
