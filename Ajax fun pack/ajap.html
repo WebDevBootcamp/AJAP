@@ -17,6 +17,8 @@
     <link href="ajap.css" rel="stylesheet">
     <script src="js/jquery-2.1.1.min.js"></script>
     <script src="dist/js/jquery.insignia.js"></script>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <link href="dist/css/styles.css" rel="stylesheet">
 </head>
 
@@ -24,12 +26,22 @@
 <!---->
 
 <!--scrolling header-->
-<div class="jumbotron"  id ="header_image">
+<div id="top"></div>
 
+<div class="jumbotron"  id ="header_image">
+    <img src="images/logo7.jpg" class="logo">
+    <div class="header">
     <h1>LEARN TO CODE</h1>
     <h2>SHOW OFF YOUR BADGES!</h2>
-</div>
+        <div class="circle"></div>
+    <a href="#badges" class="btn btn-circle page-scroll">
+        <i class="fa fa-angle-double-down animated"></i>
+    </a>
+</div></div>
 <!--input form for codeschool and treehouse app-->
+<div id="badges"></div>
+
+
 <div class="four columns event-info">
     <div class="insignia" data-treehouse="audreyklammer" data-codeschool="audreyklammer"></div>
 
@@ -56,10 +68,17 @@
                 <div class="pointsLessons"></div>
 
             </div>
+
+            <div>   <h4>Download Insignia Beta</h4>
+                <img src ="images/download.png" width="10%"></div>
+    <a href="#steps" class="btn btn-circle page-scroll">
+        <i class="fa fa-angle-double-down animated"></i>
+    </a>
         </div>
     </div>
 </section>
 
+<div id="steps"></div>
 
     <h1>Step 1</h1>
 <div class = "box">
@@ -69,15 +88,18 @@
             &ltscript src="dist/js/jquery.insignia.js"&gt&lt/script&gt</br>
             <i>&lt!--insignia css--&gt</i></br>
             &lt link href="dist/css/insignia.css" rel="stylesheet"&gt</br>
+
 </div>
 
-<div>
    <h1> Step 2. HTML markup</h1>
-    <div class="box"><i>Replace "user_name" with your name!</i></br>
+    <div class = "box"><i>Replace "user_name" with your name!</i></br>
   &ltdiv class="insignia" data-treehouse="user_name" data-codeschool="user_name"&gt&lt/div&gt
+    </div>
 
-                    </div>
-</div>
+<div class="arrowTop">
+    <a href="#top" class="btn btn-circle page-scroll">
+        <i class="fa fa-angle-double-up animated"></i>
+    </a> </div>
 
 
 

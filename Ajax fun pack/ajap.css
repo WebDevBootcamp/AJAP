@@ -21,7 +21,7 @@ body, html {
 }
 
 a {
-    color: #fff;
+    color: darkgreen;
     -webkit-transition: all 300ms ease-in;
     transition: all 500ms ease-in;
     padding: 5px;
@@ -62,41 +62,18 @@ section {
 
 
 #header_image {
+
     background-image: url("https://download.unsplash.com/photo-1414637104192-f9ab9a0ee249");
-}
-
-
-
-.jumbotron {
-    -webkit-align-content: center;
-    -ms-flex-line-pack: center;
-    align-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -webkit-flex-wrap: nowrap;
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap;
-
-    -webkit-justify-content: space-around;
-    justify-content: space-around;
-    position: relative;
-    width: 100%;
-    text-align: center;
-    background-attachment: fixed;
+    height:100vh;
     background-size: cover;
-    background-position:  center;
+
 }
+
+.logo{
+float: left;
+}
+
+
 .jumbotron h1{
     color:black;
     font-size: 4em;
@@ -109,7 +86,7 @@ section {
 
 
 h2 {
-    color:black;
+    color:white;
     font-size: 2.25em;
     font-family:Montserrat, serif;
     text-shadow: 2px 2px #B3D962;
@@ -149,13 +126,13 @@ h3{
     padding:10px
 height:60px;
     width:40%;
-    color:black;
+    color:white;
     font-size: 1em;
     text-transform: uppercase;
     font-family: Montserrat, sans-serif;
     margin-bottom: 0.25em;
-    text-shadow: 2px 2px #B3D962;
-    background-color:#B3D962;
+
+
     margin-left:6%;
 }
 
@@ -174,13 +151,13 @@ height:60px;
     width: 100%;
     text-align: center;
     font-size: 12px;
-    color: white;
+    color: green;
     position: absolute;
     bottom: -300px;
 }
 
 i{
-    color:grey;
+    color:white;
 }
  h1{
      text-align:center;
@@ -190,8 +167,21 @@ i{
     width:500px;
 
 }
+.header {
+    text-align:center;
+    padding:30px;
+    margin: 0 auto;
+    display:block;
+    width:500px;
 
+}
+.circle{
+    margin-bottom: 100px;
+
+
+}
 .box{
+
     text-align:center;
     padding:30px;
     margin: 0 auto;
@@ -200,4 +190,102 @@ i{
     background-color: #e7facf;
     border-radius: 10px;
 
+}
+.arrowTop{
+    text-align:center;
+    padding:30px;
+    margin: 0 auto;
+    display:block;
+    width:60%;
+       border-radius: 10px;
+
+}
+
+#steps{
+    margin-top:100px;
+    margin-bottom: 100px;
+
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #44714D;
+}
+.btn-circle {
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    padding: 7px 16px;
+    border: 2px solid #fff;
+    border-radius: 100%!important;
+    font-size: 40px;
+    color: #fff;
+    background: 0 0;
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
+.btn-circle:hover,
+.btn-circle:focus {
+    outline: 0;
+    color: #fff;
+    background: rgba(255,255,255,.1);
+}
+
+.btn-circle i.animated {
+    -webkit-transition-property: -webkit-transform;
+    -webkit-transition-duration: 1s;
+    -moz-transition-property: -moz-transform;
+    -moz-transition-duration: 1s;
+}
+
+.btn-circle:hover i.animated {
+    -webkit-animation-name: pulse;
+    -moz-animation-name: pulse;
+    -webkit-animation-duration: 1.5s;
+    -moz-animation-duration: 1.5s;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-timing-function: linear;
+}
+
+@-webkit-keyframes pulse {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+
+    50% {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@-moz-keyframes pulse {
+    0% {
+        -moz-transform: scale(1);
+        transform: scale(1);
+    }
+
+    50% {
+        -moz-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+
+    100% {
+        -moz-transform: scale(1);
+        transform: scale(1);
+    }
+}
+h4{
+    color:white;
 }

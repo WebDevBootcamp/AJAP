@@ -28,7 +28,7 @@ a {
 }
 
 .badges li, .badges2 li {
-  width: 12%;
+  width: 10%;
 }
 
 .badges li img, .badges2 li img  {
@@ -40,10 +40,18 @@ a {
 }
 
 .insignia h3 {
+    margin: auto;
   margin-bottom: 16px;
   text-align: center;
   text-transform: none;
   font-size: 26px;
   margin-top: 28px;
+}
+
+.insignia {
+    margin-top:50px;
+    margin-bottom: 50px;
+
+
 }
 
